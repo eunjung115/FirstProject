@@ -1,10 +1,10 @@
-package admin;
+package admin2;
 
-public class Manager {
+public class adminMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("head 지정");
+
 	}
 
 }
