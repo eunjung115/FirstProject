@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			System.out.println("Ã¹ ¹øÂ° ÇÁ·ÎÁ§Æ®");
+			System.out.println("Ã¹ ï¿½ï¿½Â° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zzÆ®");
 	}
 
 }
